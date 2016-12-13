@@ -1,0 +1,9 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "~6.0",
+        "illuminate/database": "~5.2",
+        "php-curl-class/php-curl-class": "^5.1",
+        "fabpot/goutte": "^3.2",
+        "facebook/webdriver": "^1.2"
+    }
+}

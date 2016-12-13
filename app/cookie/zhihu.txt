@@ -1,0 +1,22 @@
+# HTTP Cookie File for domains related to zhihu.com.
+# Downloaded with cookies.txt Chrome Extension (https://chrome.google.com/webstore/detail/njabckikapfpffapmjgojcnbfjonfjfg)
+# Example:  wget -x --load-cookies cookies.txt https://www.zhihu.com/people/jia-shun-zhang/following
+#
+.zhihu.com	TRUE	/	FALSE	1576055078	q_c1	fb70a9a739d84593979e54a3fc884c1a|1481447077000|1481447077000
+.zhihu.com	TRUE	/	FALSE	1576055078	d_c0	&quot;ADDChMlb-wqPTmvLaxQ6uKpHSLIC8DtyHiM=|1481447078&quot;
+.zhihu.com	TRUE	/	FALSE	1544519078	_zap	713e923e-988b-4361-86f0-15779f8fc75d
+www.zhihu.com	FALSE	/	FALSE	1484101696	_xsrf	71d7f23814ba276c257f76b2ab5ed931
+zhuanlan.zhihu.com	FALSE	/	FALSE	1484115382	_xsrf	2|ade4233b|a16f75c4da134b75740ccfb4faa5f0e4|1481523382
+zhuanlan.zhihu.com	FALSE	/	FALSE	1484120787	XSRF-TOKEN	2|31077bec|3d8c2d1346f013a2e8ef97636646a833|1481523382
+.zhihu.com	TRUE	/	FALSE	1481541011	__utmt	1
+.zhihu.com	TRUE	/	FALSE	0	l_n_c	1
+.zhihu.com	TRUE	/	FALSE	1484132413	l_cap_id	&quot;ZWVlMzI1MWQ5MzllNDIxYmEyZjQ2MzgzZmM3NzhjOTM=|1481540412|a173c0a5be9117052f522d0f9e765c9ae3bcd54a&quot;
+.zhihu.com	TRUE	/	FALSE	1484132413	cap_id	&quot;MWEwZjAxN2RjY2Y0NDE0ODhhNjUwOWVkODkyODNjNzA=|1481540412|e9d44b46f58d7e0857ce00b1dca3de1968c59511&quot;
+.zhihu.com	TRUE	/	FALSE	1484132414	r_cap_id	&quot;MmU5MDU4ZmJmMjZjNGZlZGEyMGNjOGU4YjdkNjRlMDk=|1481540413|fae426c9a2ddff3ec69d68d684eb4db76e28bfdc&quot;
+.zhihu.com	TRUE	/	FALSE	1544612637	__utma	51854390.2048236205.1481533943.1481533943.1481540411.2
+.zhihu.com	TRUE	/	FALSE	1481542437	__utmb	51854390.6.10.1481540411
+.zhihu.com	TRUE	/	FALSE	0	__utmc	51854390
+.zhihu.com	TRUE	/	FALSE	1497308637	__utmz	51854390.1481533943.1.1.utmcsr=zhihu.sogou.com|utmccn=(referral)|utmcmd=referral|utmcct=/
+.zhihu.com	TRUE	/	FALSE	1544612637	__utmv	51854390.000--|2=registration_date=20140216=1^3=entry_date=20161211=1
+.zhihu.com	TRUE	/	FALSE	1484132643	login	&quot;ZjNmNGUyZDM1NDI3NDJjNTk0NmFjZGI5ZDI3YThkNzI=|1481540642|0d96059e3889e4029a167f78c67092106546c2f6&quot;
+.zhihu.com	TRUE	/	FALSE	1484132643	z_c0	Mi4wQUFBQVVqSW1BQUFBTU1LRXlWdjdDaGNBQUFCaEFsVk5JaEYyV0FCaWhCRGJjUHFqenJ4aWRBUE9iVDJ0a3FMOXdn|1481540642|67a0751cde3caf886485369949b5c8c6b8cd311d

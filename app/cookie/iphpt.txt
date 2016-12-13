@@ -1,0 +1,9 @@
+# HTTP Cookie File for domains related to iphpt.com.
+# Downloaded with cookies.txt Chrome Extension (https://chrome.google.com/webstore/detail/njabckikapfpffapmjgojcnbfjonfjfg)
+# Example:  wget -x --load-cookies cookies.txt https://www.iphpt.com/home
+#
+www.iphpt.com	FALSE	/	FALSE	1497255881	CNZZDATA1256842383	9068054-1481447056-https%253A%252F%252Fwww.baidu.com%252F%7C1481527748
+.iphpt.com	TRUE	/	FALSE	1513067081	Hm_lvt_1d39dffce0d2d7459b6bc4a4b00aa612	1481523244,1481523287,1481523290,1481523672
+.iphpt.com	TRUE	/	FALSE	0	Hm_lpvt_1d39dffce0d2d7459b6bc4a4b00aa612	1481531082
+www.iphpt.com	FALSE	/	FALSE	1481538469	XSRF-TOKEN	eyJpdiI6InFOeDU3NGNKQmNONTNTQ0FWYlJMUFE9PSIsInZhbHVlIjoiQktydmo5RmVGRHp3cG03RWRndFwvZVwvOFczcDZcL1lKZkRKSDVYXC9YTklNWStEcjVXVURhcWdcL09sOFdSZFJpaStKOGJxbjA2bHNHSEMyK3J5ZThkeXpqUT09IiwibWFjIjoiZGJmZGE3ZjU2MzAyM2U3Y2I3NDBmYjllY2M3Yjk5OWVhNWIwNGU4M2E2NDJmNzQ5NDU4YzM3NzNhYjAzZmZlZCJ9
+www.iphpt.com	FALSE	/	FALSE	1481538469	laravel_session	eyJpdiI6IjFEUDRyQU90Tmd4TkpjQ25tMVJLT2c9PSIsInZhbHVlIjoiRG5LRW05VFdHUk9wRE5xdDFoUXY2QktBZk9ycWdTQlc1TW1Rd3hPS1hMYVkzWkYra1wvZ0U4SFRuaCt0Rkt1T0xXcnhDQlpDWGhvdThGSUdCVzVmVUhBPT0iLCJtYWMiOiI0MDk4OWE1MzlmZmNkZTQ4M2FlZTY5MWYxNjg0M2VhN2U2MzE0MzZmYzk1MDQzYzk0ODQ0ODRmN2ExYzk1MzU5In0%3D
